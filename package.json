@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "prop-types": "^15.6.0",
-    "deprecated-react-native-prop-types": "^2.2.0",
+    "deprecated-react-native-prop-types": "^2.2.0"
   },
   "peerDependencies": {
     "react-native": ">=0.20.0",
